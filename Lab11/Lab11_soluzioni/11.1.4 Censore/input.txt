@@ -1,0 +1,11 @@
+L’insegnamento, obbligatorio per tutti gli studenti, si propone un duplice obiettivo: da un lato, introdurre gli
+studenti alle problematiche legate all’informatica sia dal punto di vista “culturale” che da quello tecnologico. D
+all’altro, insegnare l’uso di un linguaggio di programmazione per un elaboratore, quale strumento per la soluzione
+di problemi reali.
+Lo studente deve acquisire due tipologie fondamentali di conoscenze: (i) la capacità di risolvere problemi concreti
+mediante programmi da implementare in un linguaggio di programmazione ed eseguire su un calcolatore; (ii) la capacità
+di comprendere aspetti quantitativi dell’informatica quali prestazioni, capacità di calcolo, rappresentazione
+dell’informazione, e l’organizzazione degli elaboratori.
+Queste capacità vengono applicate alla soluzione di problemi di rilevanza pratica.
+Il corso non prevede particolari prerequisiti. Si richiedono principalmente alcune nozioni basilari dell’Analisi
+Matematica (per esempio, il concetto di funzione) e un livello minimo di familiarità con l'interazione con il computer.
