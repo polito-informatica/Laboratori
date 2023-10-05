@@ -1,4 +1,4 @@
-# Laboratori Informatica 2022/23
+# Laboratori Informatica 2023/24
 
 Testi e soluzioni delle esercitazioni settimanali di laboratorio
 
