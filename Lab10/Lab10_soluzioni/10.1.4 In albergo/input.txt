@@ -1,0 +1,4 @@
+Bob;Dinner;10.00;January 1, 2013
+Tom;Dinner;14.00;January 2, 2013
+Anne;Lodging;125.00;January 3, 2013
+Jerry;Lodging;125.00;January 4, 2013
