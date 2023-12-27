@@ -8,10 +8,10 @@ from math import e, log
 HALF_LIFE = 6
 lam = log(2.0) / HALF_LIFE
 
-# Read the initial amount from the user.
-a0 = float(input("Enter the initial amount to Technetium-99: "))
+# Since we are interested in the ratio a/a0, we can fix a0 to a conventional value of 1.0
+a0 = 1.0
 
 # For each of 24 hours.
 for t in range(1, 25):
     amount = a0 * e ** (-lam * t)
-    print(f'After {t} hours, the amount is {amount:.2f}')
+    print(f'After {t} hours, the amount is {amount:.2f} times A0')
